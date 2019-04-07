@@ -3,3 +3,8 @@
 
 .jumbotron {
 	background-color: orange;
+}
+.col-sm-8	{
+	background-color: grey ;
+	opacity: 40%;
+}
