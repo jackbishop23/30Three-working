@@ -1,7 +1,9 @@
-
-
+#logo {
+	position: right;
+}
 
 .col-sm-8	{
 	background-color: grey ;
-	opacity: 40%;
+	opacity: 90%;
 }
+
